@@ -1,0 +1,6 @@
+{
+  "name": "Aegis - Misinformation, Cyber & AI Defense Platform",
+  "description": "Enterprise-grade defensive platform combating disinformation, cyber insecurity, phishing, and AI hallucinations with explainable AI, trust scoring, and cyber hygiene.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
